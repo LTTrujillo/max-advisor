@@ -1,29 +1,24 @@
 # max-advisor
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Technologies I want to use.
+1. [Vue](https://vuejs.org/)
+2. [Materialize](https://materializecss.com/)
+3. [Express](https://expressjs.com/)
+4. [Postgres](https://www.postgresql.org/)
+5. API's
+6. O-Auth
+7. [Chart.js](https://www.chartjs.org/)
+8. [d3](https://d3js.org/)
+9. [Knex](https://knexjs.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Wire Frame
+[Wire frame link](https://trello.com/c/lQMXS1IH/13-https-wireframecc-pro-edit-236267)
 
-### Run your tests
-```
-npm run test
-```
+[homepage]()
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### User Stories
+[User Stories Link](https://trello.com/b/7VoaR6Jo/maxadvisor)
+
+
