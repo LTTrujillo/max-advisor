@@ -22,12 +22,12 @@
 ### Wire Frame
 [Wire frame link](https://trello.com/c/lQMXS1IH/13-https-wireframecc-pro-edit-236267)
 
-<img alt = 'homepage' src = '/Users/logantrujillo/galvanize/q4/capstone/max-advisor/src/assets/home-page.png' width=400 height=400/>
-<img alt = 'analytics-page' src='/Users/logantrujillo/galvanize/q4/capstone/max-advisor/src/assets/analytics-page.png' width=400 height=400/>
+<img alt = 'home-page' src = 'https://raw.githubusercontent.com/LTTrujillo/max-advisor/master/src/assets/home-page.png' width=400 height=400/>
+<img alt = 'analytics-page' src='https://raw.githubusercontent.com/LTTrujillo/max-advisor/master/src/assets/analytics-page.png' width=400 height=400/>
 
 ### Color Pallete
 
-<img alt = 'color pallete' src = '/Users/logantrujillo/galvanize/q4/capstone/max-advisor/src/assets/color-pallete.png'>
+<img alt = 'color-pallete' src = 'https://raw.githubusercontent.com/LTTrujillo/max-advisor/master/src/assets/color-pallete.png'>
 
 ### Server Route Plan
 ```
